@@ -16,5 +16,9 @@ int main(int argc, const char * argv[]) {
 }
 void pippo(){
  int y=0;
-    
+ float i=9.89;
+}
+
+int yu(){
+return 67;
 }
