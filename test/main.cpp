@@ -19,4 +19,8 @@ void pippo(){
     
 }
 
-nbnvnb
+void pluto(){
+    int yuyu=89;
+     std::cout << "Hello, World!\n";
+    
+}
