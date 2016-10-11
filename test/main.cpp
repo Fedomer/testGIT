@@ -22,3 +22,9 @@ void pippo(){
 int yu(){
 return 67;
 }
+
+void pluto(){
+    int yuyu=89;
+     std::cout << "Hello, World!\n";
+    
+}
