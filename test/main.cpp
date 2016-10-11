@@ -8,18 +8,13 @@
 
 #include <iostream>
 
-
 int main(int argc, const char * argv[]) {
     // insert code here...
     // Che strano mondo
     std::cout << "Hello, World!\n";
     return 0;
 }
-
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    // Che strano mondo
-    std::cout << "Hello, World!\n";
-    return 0;
+void pippo(){
+ int y=0;
+    
 }
